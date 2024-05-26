@@ -6,7 +6,7 @@ from matplotlib import pyplot
 from plotly import graph_objs as go
 import numpy as np
 
-data = pd.read_csv('C:/Users/admin/PycharmProjects/pythonProject 1/Salary_Data.csv')
+data = pd.read_csv('data//Salary_Data.csv')
 
 st.title("Salary v/s Experience")
 
